@@ -1,0 +1,19 @@
+# bankruptcylien.com
+
+> Complete guide to liens in bankruptcy. Learn how lien stripping, cramdown under Section 506(a), and lien avoidance under Section 522(f) can reduce or eliminate secured claims on your property.
+
+## About
+
+bankruptcylien.com explains how liens are treated in bankruptcy, covering lien stripping, cramdown under 11 U.S.C. Section 506(a), and lien avoidance under 11 U.S.C. Section 522(f). The site explains the difference between in rem and in personam liability, how secured claims survive discharge, when liens can be stripped or avoided, and practical strategies for reducing secured debt through bankruptcy.
+
+## Key Pages
+
+- [Home](https://bankruptcylien.com/): Complete guide to liens in bankruptcy -- lien stripping, cramdown, avoidance, and secured claim treatment
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "bankruptcylien.com, Open Bankruptcy Project (2026)."
