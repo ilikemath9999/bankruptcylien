@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta content="noindex, nofollow" name="robots"/>
-<meta content="0; url=https://bankruptcylien.com/surviving-liens.html" http-equiv="refresh"/>
+<meta content="0; url=https://bankruptcylien.com/judgment-liens.html" http-equiv="refresh"/>
 <script>window.location.replace('https://bankruptcylien.com' + window.location.pathname.replace(/^\/[^\/]+/, ''));</script>
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <!-- BTN:GA4:START -->
@@ -20,22 +20,22 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What Liens Survive Bankruptcy Discharge?</title>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." name="description"/>
-<meta content="liens survive bankruptcy, in personam, in rem, discharge, surviving liens, lien passthrough, property" name="keywords"/>
-<link href="https://bankruptcylien.com/surviving-liens.html" rel="canonical"/>
-<link href="https://bankruptcylien.com/surviving-liens.html" hreflang="en" rel="alternate"/>
+<title>Judgment Lien Avoidance in Bankruptcy - Section 522(f)</title>
+<meta content="Learn about judgment lien avoidance in bankruptcy - section 522(f) | bankruptcylien.com in our free 2026 guide." name="description"/>
+<meta content="judgment lien, lien avoidance, section 522(f), judicial lien, exemption, bankruptcy, impairment formula" name="keywords"/>
+<link href="https://bankruptcylien.com/judgment-liens.html" rel="canonical"/>
+<link href="https://bankruptcylien.com/judgment-liens.html" hreflang="en" rel="alternate"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="#0d1117" name="theme-color"/>
 <meta content="2026-03-28" name="last-modified"/>
-<meta content="What Liens Survive Bankruptcy Discharge?" property="og:title"/>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
+<meta content="Judgment Lien Avoidance in Bankruptcy - Section 522(f)" property="og:title"/>
+<meta content="Learn about judgment lien avoidance in bankruptcy - section 522(f) | bankruptcylien.com in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://bankruptcylien.com/surviving-liens.html" property="og:url"/>
+<meta content="https://bankruptcylien.com/judgment-liens.html" property="og:url"/>
 <meta content="bankruptcylien.com" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What Liens Survive Bankruptcy Discharge?" name="twitter:title"/>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
+<meta content="Judgment Lien Avoidance in Bankruptcy - Section 522(f)" name="twitter:title"/>
+<meta content="Learn about judgment lien avoidance in bankruptcy - section 522(f) | bankruptcylien.com in our free 2026 guide." name="twitter:description"/>
 <meta content="https://openbankruptcyproject.org/og-default.svg" property="og:image"/>
 <meta content="https://openbankruptcyproject.org/og-default.svg" name="twitter:image"/>
 <script type="application/ld+json">
@@ -52,12 +52,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "Do all liens survive bankruptcy?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Yes, unless specifically avoided, stripped, or otherwise addressed through bankruptcy proceedings. The discharge eliminates personal liability (in personam) but not property-based rights (in rem)."}},
-    {"@type": "Question", "name": "What does in personam vs in rem mean?",
-     "acceptedAnswer": {"@type": "Answer", "text": "In personam means personal liability - your obligation to pay. In rem means rights against specific property - the lien. Discharge eliminates in personam liability but leaves in rem rights intact."}},
-    {"@type": "Question", "name": "What can I do about surviving liens?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Use the tools bankruptcy provides: lien avoidance (522(f)), lien stripping (Ch.13), cramdown (506(a)), or redemption (722). If none apply, the lien survives and can be enforced against the property."}}
+    {"@type": "Question", "name": "What is a judgment lien?",
+     "acceptedAnswer": {"@type": "Answer", "text": "A judicial lien that attaches to your property when a creditor wins a lawsuit and records the judgment. It gives the creditor a claim against your property that survives the sale or transfer of the property."}},
+    {"@type": "Question", "name": "Can I remove a judgment lien in bankruptcy?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Yes, if the lien impairs an exemption you are entitled to claim. Section 522(f) allows avoidance of judicial liens on exempt property."}},
+    {"@type": "Question", "name": "Does lien avoidance work in Chapter 7?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Yes. Unlike lien stripping (which requires Chapter 13), lien avoidance under 522(f) is available in all chapters, including Chapter 7."}}
   ]
 }
 </script>
@@ -67,8 +67,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Liens That Survive Bankruptcy Discharge",
-      "description": "All liens survive bankruptcy discharge unless specifically avoided or stripped. The in personam vs in rem distinction and what it means for your property.",
+      "headline": "Judgment Lien Avoidance - Section 522(f)",
+      "description": "How to avoid (remove) judicial liens that impair your exemptions under Section 522(f). The formula, procedure, and which liens qualify.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -80,7 +80,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcylien.com/surviving-liens.html"
+      "mainEntityOfPage": "https://bankruptcylien.com/judgment-liens.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -94,21 +94,77 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "What Liens Survive Bankruptcy Discharge? | bankruptcylien.com",
+          "name": "Judgment Lien Avoidance in Bankruptcy - Section 522(f) | bankruptcylien.com",
           "item": "https://"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Liens That Survive Bankruptcy Discharge",
-          "item": "https://bankruptcylien.com/surviving-liens.html"
+          "name": "Judgment Lien Avoidance - Section 522(f)",
+          "item": "https://bankruptcylien.com/judgment-liens.html"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Judgment Lien Avoidance - Section 522(f)",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nJudgment Lien Avoidance in Bankruptcy - Section"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "All other liens on the property"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "The exemption the debtor could claim if there were no liens"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Determine the property value - Get an appraisal or use comparable sales data"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Calculate all liens - Mortgages, other judgment liens, tax liens"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Identify your exemption - The applicable homestead or personal property exemption"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Apply the formula - Demonstrate that the judicial lien impairs the exemption"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "File a motion in the bankruptcy court with supporting documentation"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Serve the judgment creditor - The creditor has the right to respond and request a hearing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Record the avoidance order in the county recorder's office where the judgment was recorded"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Liens That Survive Bankruptcy Discharge",
-      "url": "https://bankruptcylien.com/surviving-liens.html",
+      "name": "Judgment Lien Avoidance - Section 522(f)",
+      "url": "https://bankruptcylien.com/judgment-liens.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -173,27 +229,6 @@
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -202,58 +237,67 @@
 <button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
 <div class="nav-links">
 <a href="/">Home</a>
-<a href="/judgment-liens.html">Judgment Liens</a>
+<a class="active" href="/judgment-liens.html">Judgment Liens</a>
 <a href="/tax-liens.html">Tax Liens</a>
 <a href="/voluntary-liens.html">Voluntary Liens</a>
-<a class="active" href="/surviving-liens.html">Surviving Liens</a>
+<a href="/surviving-liens.html">Surviving Liens</a>
 <a href="/lien-stripping.html">Lien Stripping</a>
 <a href="/cramdown.html">Cramdown</a>
 <a href="/lien-avoidance.html">Lien Avoidance</a>
 </div>
 </nav>
 <header>
-<h1>Liens That Survive Bankruptcy Discharge</h1>
-<p class="subtitle">A bankruptcy discharge eliminates personal liability but does not automatically remove liens. Understanding this distinction is essential.</p>
+<h1>Judgment Lien Avoidance - Section 522(f)</h1>
+<p class="subtitle">Section 522(f) allows you to remove judicial liens that impair your exemptions. One of the most powerful tools in bankruptcy.</p>
 </header>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://">What Liens Survive Bankruptcy Discharge? | bankruptcylien.com</a><span class="separator">›</span><span>Liens That Survive Bankruptcy Discharge</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://">Judgment Lien Avoidance in Bankruptcy - Section 522(f) | bankruptcylien.com</a><span class="separator">›</span><span>Judgment Lien Avoidance - Section 522(f)</span></nav>
 <div class="content-section">
-<h2>The Fundamental Rule</h2>
-<p>The bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eliminates your <strong>personal obligation to pay</strong> a debt. It does not automatically eliminate a creditor's <strong>lien on your property</strong>. This is the most important concept in understanding liens in bankruptcy.</p>
-<div class="statute-box"><p><strong>Dewsnup v. Timm, 502 U.S. 410 (1992):</strong> The Supreme Court held that liens pass through bankruptcy unaffected by the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> unless the debtor takes specific steps to avoid, strip, or otherwise address them.</p></div>
+<h2>How Section 522(f) Works</h2>
+<p>Section 522(f)(1)(A) allows a debtor to avoid a <strong>judicial lien</strong> on property to the extent that the lien impairs an exemption the debtor would otherwise be entitled to claim.</p>
+<div class="statute-box"><p><strong>11 U.S.C. Section 522(f)(1):</strong> The debtor may avoid the fixing of a lien on an interest of the debtor in property to the extent that such lien impairs an exemption to which the debtor would have been entitled.</p></div>
+<p>Key limitation: Section 522(f) only applies to <strong>judicial liens</strong> (from lawsuits) and certain <strong>nonpossessory, nonpurchase money security interests</strong> in specified property. It does not apply to mortgages, car loans, or tax liens.</p>
 </div>
 <div class="content-section">
-<h2>Practical Consequences</h2>
-<p>After a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> discharge with surviving liens:</p>
+<h2>The Impairment Formula</h2>
+<p>A lien impairs an exemption if the sum of the following exceeds the property's value:</p>
+<ol>
+<li>The judicial lien being challenged</li>
+<li>All other liens on the property</li>
+<li>The exemption the debtor could claim if there were no liens</li>
+</ol>
+<p><strong>Formula:</strong> If (judicial lien + all other liens + exemption) &gt; property value, then the judicial lien impairs the exemption to the extent of the excess.</p>
+<div class="statute-box">
+<p><strong>Example:</strong></p>
+<p>Home value: $200,000</p>
+<p>Mortgage: $160,000</p>
+<p>Judgment lien: $25,000</p>
+<p>Homestead exemption: $50,000</p>
+<p>Total: $160,000 + $25,000 + $50,000 = $235,000</p>
+<p>Exceeds value by $35,000. Since the judgment lien is only $25,000, the entire lien can be avoided.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>How to File the Motion</h2>
+<ol>
+<li><strong>Determine the property value</strong> - Get an appraisal or use comparable sales data</li>
+<li><strong>Calculate all liens</strong> - Mortgages, other judgment liens, tax liens</li>
+<li><strong>Identify your exemption</strong> - The applicable homestead or personal property exemption</li>
+<li><strong>Apply the formula</strong> - Demonstrate that the judicial lien impairs the exemption</li>
+<li><strong>File a motion</strong> in the bankruptcy court with supporting documentation</li>
+<li><strong>Serve the judgment creditor</strong> - The creditor has the right to respond and request a hearing</li>
+</ol>
+</div>
+<div class="content-section">
+<h2>After the Lien Is Avoided</h2>
+<p>Once the court enters an order avoiding the lien, you should:</p>
 <ul>
-<li><strong>Mortgage:</strong> The lender cannot sue you for a deficiency. But if you stop paying, they can foreclose on the lien. If you want to keep the house, you must keep paying.</li>
-<li><strong>Car loan:</strong> Same principle. The lender cannot sue you personally, but can repossess the car if you default.</li>
-<li><strong>Judgment lien:</strong> If not avoided through 522(f), the lien remains on the property even though the underlying judgment debt is discharged.</li>
-<li><strong>Tax lien:</strong> Survives discharge. The IRS or state can enforce the lien against property, even though personal liability may have been eliminated.</li>
+<li><strong>Record the avoidance order</strong> in the county recorder's office where the judgment was recorded</li>
+<li><strong>Verify title records</strong> show the lien is removed</li>
+<li><strong>Keep copies</strong> of the avoidance order permanently</li>
 </ul>
-</div>
-<div class="content-section">
-<h2>Which Liens Can Be Eliminated?</h2>
-<table>
-<tr><th scope="col">Lien Type</th><th scope="col">Can Be Eliminated?</th><th scope="col">How</th></tr>
-<tr><td>Judicial (judgment) lien</td><td>Yes - if it impairs <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a></td><td>Section 522(f) motion</td></tr>
-<tr><td>Junior mortgage (wholly unsecured)</td><td>Yes - <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> only</td><td><a href="https://lienstripping.org" rel="noopener" target="_blank" title="Lien Stripping in Bankruptcy - Open Bankruptcy Project">Lien stripping</a></td></tr>
-<tr><td>Car loan (over 910 days)</td><td>Reduced to value, not eliminated</td><td><a href="https://section1192.org/" title="cramdown">Cramdown</a> under 506(a)</td></tr>
-<tr><td>First mortgage</td><td>No</td><td>Anti-modification rule</td></tr>
-<tr><td>Tax lien</td><td>Limited - through Ch.13 plan</td><td>Pay secured portion, strip remainder</td></tr>
-<tr><td>Consensual security interest</td><td>No (generally)</td><td>Surrender or pay</td></tr>
-</table>
-</div>
-<div class="content-section">
-<h2>Strategic Implications</h2>
-<p>Understanding which liens survive affects your choice of chapter:</p>
-<ul>
-<li><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>:</strong> Fast discharge, but almost no lien modification tools (only 522(f) avoidance and 722 redemption)</li>
-<li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>:</strong> Slower process, but powerful lien tools (stripping, <a href="https://section1192.org/" title="cramdown">cramdown</a>, cure and maintain)</li>
-</ul>
-<p>If you have significant liens on your property - especially underwater junior mortgages or judgment liens - Chapter 13 may be the better choice even though it requires years of plan payments.</p>
-<div class="green-box"><p><strong>Get advice before filing.</strong> The decision about which liens to address and how to address them should be made before filing, not after. A competent bankruptcy attorney can evaluate your liens and recommend the best strategy.</p></div>
-<p>Explore: <a href="/judgment-liens.html">Judgment lien avoidance</a> | <a href="/lien-stripping.html">Lien stripping</a> | <a href="/cramdown.html">Cramdown</a></p>
+<div class="green-box"><p><strong>The effect is permanent.</strong> Once avoided, the lien does not come back - even if the underlying debt is not discharged. The lien is removed from the property regardless of the debt's dischargeability.</p></div>
+<p>See also: <a href="https://lienstripping.org">lienstripping.org</a> | <a href="https://relieffromstay.org">relieffromstay.org</a></p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
 <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
@@ -335,8 +379,8 @@
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
-<p><strong>Part of the Open Bankruptcy Project</strong></p>
-<p>A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631)</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://automaticstay.org?utm_source=bankruptcylien.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>

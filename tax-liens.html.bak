@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta content="noindex, nofollow" name="robots"/>
-<meta content="0; url=https://bankruptcylien.com/surviving-liens.html" http-equiv="refresh"/>
+<meta content="0; url=https://bankruptcylien.com/tax-liens.html" http-equiv="refresh"/>
 <script>window.location.replace('https://bankruptcylien.com' + window.location.pathname.replace(/^\/[^\/]+/, ''));</script>
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <!-- BTN:GA4:START -->
@@ -20,22 +20,22 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What Liens Survive Bankruptcy Discharge?</title>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." name="description"/>
-<meta content="liens survive bankruptcy, in personam, in rem, discharge, surviving liens, lien passthrough, property" name="keywords"/>
-<link href="https://bankruptcylien.com/surviving-liens.html" rel="canonical"/>
-<link href="https://bankruptcylien.com/surviving-liens.html" hreflang="en" rel="alternate"/>
+<title>Tax Liens in Bankruptcy - What Survives Discharge</title>
+<meta content="Learn about tax liens in bankruptcy - what survives discharge | bankruptcylien.com in our free 2026 guide." name="description"/>
+<meta content="tax lien, bankruptcy, survives discharge, IRS, federal tax lien, state tax lien, in rem, personal liability" name="keywords"/>
+<link href="https://bankruptcylien.com/tax-liens.html" rel="canonical"/>
+<link href="https://bankruptcylien.com/tax-liens.html" hreflang="en" rel="alternate"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="#0d1117" name="theme-color"/>
 <meta content="2026-03-28" name="last-modified"/>
-<meta content="What Liens Survive Bankruptcy Discharge?" property="og:title"/>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
+<meta content="Tax Liens in Bankruptcy - What Survives Discharge" property="og:title"/>
+<meta content="Learn about tax liens in bankruptcy - what survives discharge | bankruptcylien.com in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://bankruptcylien.com/surviving-liens.html" property="og:url"/>
+<meta content="https://bankruptcylien.com/tax-liens.html" property="og:url"/>
 <meta content="bankruptcylien.com" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What Liens Survive Bankruptcy Discharge?" name="twitter:title"/>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
+<meta content="Tax Liens in Bankruptcy - What Survives Discharge" name="twitter:title"/>
+<meta content="Learn about tax liens in bankruptcy - what survives discharge | bankruptcylien.com in our free 2026 guide." name="twitter:description"/>
 <meta content="https://openbankruptcyproject.org/og-default.svg" property="og:image"/>
 <meta content="https://openbankruptcyproject.org/og-default.svg" name="twitter:image"/>
 <script type="application/ld+json">
@@ -52,12 +52,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "Do all liens survive bankruptcy?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Yes, unless specifically avoided, stripped, or otherwise addressed through bankruptcy proceedings. The discharge eliminates personal liability (in personam) but not property-based rights (in rem)."}},
-    {"@type": "Question", "name": "What does in personam vs in rem mean?",
-     "acceptedAnswer": {"@type": "Answer", "text": "In personam means personal liability - your obligation to pay. In rem means rights against specific property - the lien. Discharge eliminates in personam liability but leaves in rem rights intact."}},
-    {"@type": "Question", "name": "What can I do about surviving liens?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Use the tools bankruptcy provides: lien avoidance (522(f)), lien stripping (Ch.13), cramdown (506(a)), or redemption (722). If none apply, the lien survives and can be enforced against the property."}}
+    {"@type": "Question", "name": "Do tax liens survive bankruptcy?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Yes. Tax liens survive bankruptcy discharge. The personal obligation to pay may be eliminated (for dischargeable taxes), but the lien remains attached to your property."}},
+    {"@type": "Question", "name": "Can any tax liens be removed in bankruptcy?",
+     "acceptedAnswer": {"@type": "Answer", "text": "In limited circumstances. If the underlying tax debt is dischargeable and the lien is paid through a Chapter 13 plan, the lien may be extinguished upon plan completion. In Chapter 7, tax liens generally survive."}},
+    {"@type": "Question", "name": "What is the difference between the tax debt and the tax lien?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The tax debt is your personal obligation to pay. The tax lien is the government's security interest in your property. Discharge eliminates the personal obligation (for qualifying taxes) but not the lien."}}
   ]
 }
 </script>
@@ -67,8 +67,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Liens That Survive Bankruptcy Discharge",
-      "description": "All liens survive bankruptcy discharge unless specifically avoided or stripped. The in personam vs in rem distinction and what it means for your property.",
+      "headline": "Tax Liens in Bankruptcy",
+      "description": "Federal and state tax liens survive bankruptcy discharge. Personal liability may be eliminated, but the lien stays on your property.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -80,7 +80,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcylien.com/surviving-liens.html"
+      "mainEntityOfPage": "https://bankruptcylien.com/tax-liens.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -94,21 +94,77 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "What Liens Survive Bankruptcy Discharge? | bankruptcylien.com",
+          "name": "Tax Liens in Bankruptcy - What Survives Discharge | bankruptcylien.com",
           "item": "https://"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Liens That Survive Bankruptcy Discharge",
-          "item": "https://bankruptcylien.com/surviving-liens.html"
+          "name": "Tax Liens in Bankruptcy",
+          "item": "https://bankruptcylien.com/tax-liens.html"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Tax Liens in Bankruptcy",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nTax Liens in Bankruptcy - What Survives Dischar"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Secured tax claims (backed by a filed lien) are secured to the extent of property value"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "The lien survives discharge even if the underlying tax is dischargeable"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Pay the secured portion of the tax claim through the plan at present value"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Treat the excess as unsecured - If the lien exceeds property value, the excess may be treated as unsecured (and potentially receive less than full payment)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Strip the lien upon completion - If the tax debt is fully dischargeable and the plan pays the secured portion, the lien is extinguished"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Three-year rule: The tax return was due more than 3 years before filing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Two-year rule: The tax return was actually filed more than 2 years before filing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "240-day rule: The taxes were assessed more than 240 days before filing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "No fraud or willful evasion: The return was not fraudulent, and you did not willfully attempt to evade the tax"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Liens That Survive Bankruptcy Discharge",
-      "url": "https://bankruptcylien.com/surviving-liens.html",
+      "name": "Tax Liens in Bankruptcy",
+      "url": "https://bankruptcylien.com/tax-liens.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -173,27 +229,6 @@
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -203,57 +238,61 @@
 <div class="nav-links">
 <a href="/">Home</a>
 <a href="/judgment-liens.html">Judgment Liens</a>
-<a href="/tax-liens.html">Tax Liens</a>
+<a class="active" href="/tax-liens.html">Tax Liens</a>
 <a href="/voluntary-liens.html">Voluntary Liens</a>
-<a class="active" href="/surviving-liens.html">Surviving Liens</a>
+<a href="/surviving-liens.html">Surviving Liens</a>
 <a href="/lien-stripping.html">Lien Stripping</a>
 <a href="/cramdown.html">Cramdown</a>
 <a href="/lien-avoidance.html">Lien Avoidance</a>
 </div>
 </nav>
 <header>
-<h1>Liens That Survive Bankruptcy Discharge</h1>
-<p class="subtitle">A bankruptcy discharge eliminates personal liability but does not automatically remove liens. Understanding this distinction is essential.</p>
+<h1>Tax Liens in Bankruptcy</h1>
+<p class="subtitle">Tax liens are among the most persistent liens in bankruptcy. Personal liability can be eliminated, but the lien stays on your property.</p>
 </header>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://">What Liens Survive Bankruptcy Discharge? | bankruptcylien.com</a><span class="separator">›</span><span>Liens That Survive Bankruptcy Discharge</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://">Tax Liens in Bankruptcy - What Survives Discharge | bankruptcylien.com</a><span class="separator">›</span><span>Tax Liens in Bankruptcy</span></nav>
 <div class="content-section">
-<h2>The Fundamental Rule</h2>
-<p>The bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eliminates your <strong>personal obligation to pay</strong> a debt. It does not automatically eliminate a creditor's <strong>lien on your property</strong>. This is the most important concept in understanding liens in bankruptcy.</p>
-<div class="statute-box"><p><strong>Dewsnup v. Timm, 502 U.S. 410 (1992):</strong> The Supreme Court held that liens pass through bankruptcy unaffected by the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> unless the debtor takes specific steps to avoid, strip, or otherwise address them.</p></div>
-</div>
-<div class="content-section">
-<h2>Practical Consequences</h2>
-<p>After a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> discharge with surviving liens:</p>
-<ul>
-<li><strong>Mortgage:</strong> The lender cannot sue you for a deficiency. But if you stop paying, they can foreclose on the lien. If you want to keep the house, you must keep paying.</li>
-<li><strong>Car loan:</strong> Same principle. The lender cannot sue you personally, but can repossess the car if you default.</li>
-<li><strong>Judgment lien:</strong> If not avoided through 522(f), the lien remains on the property even though the underlying judgment debt is discharged.</li>
-<li><strong>Tax lien:</strong> Survives discharge. The IRS or state can enforce the lien against property, even though personal liability may have been eliminated.</li>
-</ul>
-</div>
-<div class="content-section">
-<h2>Which Liens Can Be Eliminated?</h2>
+<h2>Tax Liens vs. Tax Debts</h2>
+<p>This distinction is critical for understanding how bankruptcy affects taxes:</p>
 <table>
-<tr><th scope="col">Lien Type</th><th scope="col">Can Be Eliminated?</th><th scope="col">How</th></tr>
-<tr><td>Judicial (judgment) lien</td><td>Yes - if it impairs <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a></td><td>Section 522(f) motion</td></tr>
-<tr><td>Junior mortgage (wholly unsecured)</td><td>Yes - <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> only</td><td><a href="https://lienstripping.org" rel="noopener" target="_blank" title="Lien Stripping in Bankruptcy - Open Bankruptcy Project">Lien stripping</a></td></tr>
-<tr><td>Car loan (over 910 days)</td><td>Reduced to value, not eliminated</td><td><a href="https://section1192.org/" title="cramdown">Cramdown</a> under 506(a)</td></tr>
-<tr><td>First mortgage</td><td>No</td><td>Anti-modification rule</td></tr>
-<tr><td>Tax lien</td><td>Limited - through Ch.13 plan</td><td>Pay secured portion, strip remainder</td></tr>
-<tr><td>Consensual security interest</td><td>No (generally)</td><td>Surrender or pay</td></tr>
+<tr><th scope="col">Concept</th><th scope="col">What It Is</th><th scope="col">Effect of <a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a></th></tr>
+<tr><td>Tax debt (in personam)</td><td>Your personal obligation to pay</td><td>May be eliminated if taxes meet <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> criteria</td></tr>
+<tr><td>Tax lien (in rem)</td><td>Government's claim on your property</td><td>Survives discharge - remains on property</td></tr>
 </table>
+<div class="warning-box"><p><strong>Practical impact:</strong> Even after discharge eliminates the personal obligation, the IRS or state can still enforce the lien against your property. If you sell the house, the tax lien must be satisfied from the proceeds.</p></div>
 </div>
 <div class="content-section">
-<h2>Strategic Implications</h2>
-<p>Understanding which liens survive affects your choice of chapter:</p>
+<h2>Federal Tax Liens</h2>
+<p>The IRS files a <strong>Notice of Federal Tax Lien (NFTL)</strong> when you owe taxes and have not paid after assessment and demand. This lien attaches to all property you own or acquire - real estate, vehicles, bank accounts, business assets.</p>
+<p>In bankruptcy:</p>
 <ul>
-<li><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>:</strong> Fast discharge, but almost no lien modification tools (only 522(f) avoidance and 722 redemption)</li>
-<li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>:</strong> Slower process, but powerful lien tools (stripping, <a href="https://section1192.org/" title="cramdown">cramdown</a>, cure and maintain)</li>
+<li><strong>Priority tax debts</strong> (less than 3 years old) must be paid in full through the plan</li>
+<li><strong>Secured tax claims</strong> (backed by a filed lien) are secured to the extent of property value</li>
+<li><strong>The lien survives discharge</strong> even if the underlying tax is dischargeable</li>
 </ul>
-<p>If you have significant liens on your property - especially underwater junior mortgages or judgment liens - Chapter 13 may be the better choice even though it requires years of plan payments.</p>
-<div class="green-box"><p><strong>Get advice before filing.</strong> The decision about which liens to address and how to address them should be made before filing, not after. A competent bankruptcy attorney can evaluate your liens and recommend the best strategy.</p></div>
-<p>Explore: <a href="/judgment-liens.html">Judgment lien avoidance</a> | <a href="/lien-stripping.html">Lien stripping</a> | <a href="/cramdown.html">Cramdown</a></p>
+</div>
+<div class="content-section">
+<h2>Dealing with Tax Liens in Chapter 13</h2>
+<p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> provides more tools for addressing tax liens than <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>:</p>
+<ul>
+<li><strong>Pay the secured portion</strong> of the tax claim through the plan at present value</li>
+<li><strong>Treat the excess as unsecured</strong> - If the lien exceeds property value, the excess may be treated as unsecured (and potentially receive less than full payment)</li>
+<li><strong>Strip the lien upon completion</strong> - If the tax debt is fully dischargeable and the plan pays the secured portion, the lien is extinguished</li>
+</ul>
+<div class="green-box"><p><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> advantage:</strong> For debtors with tax liens on their property, Chapter 13 provides a structured path to eliminate both the personal liability and the lien over the plan period.</p></div>
+</div>
+<div class="content-section">
+<h2>Which Taxes Are Dischargeable?</h2>
+<p>Income taxes may be dischargeable if they meet all of these criteria:</p>
+<ol>
+<li><strong>Three-year rule:</strong> The tax return was due more than 3 years before filing</li>
+<li><strong>Two-year rule:</strong> The tax return was actually filed more than 2 years before filing</li>
+<li><strong>240-day rule:</strong> The taxes were assessed more than 240 days before filing</li>
+<li><strong>No fraud or willful evasion:</strong> The return was not fraudulent, and you did not willfully attempt to evade the tax</li>
+</ol>
+<p>Even when the personal liability is dischargeable, the lien survives unless specifically addressed through a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>.</p>
+<p>Full guide: <a href="https://bankruptcytaxes.org/tax-liens.html">bankruptcytaxes.org/tax-liens.html</a></p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
 <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
@@ -266,8 +305,8 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://lienstripping.org" style="color:#58a6ff">lienstripping.org - Lien stripping guide</a></p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcytaxes.org/tax-liens.html" style="color:#58a6ff">bankruptcytaxes.org/tax-liens.html - Tax liens</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcytaxes.org" style="color:#58a6ff">bankruptcytaxes.org - Complete tax guide</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://lienstripping.org" style="color:#58a6ff">lienstripping.org - Lien stripping</a></p>
 <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://relieffromstay.org" style="color:#58a6ff">relieffromstay.org - Relief from stay</a></p>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -328,15 +367,15 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcylien&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcylien&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcylien&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=bankruptcylien&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
-<p><strong>Part of the Open Bankruptcy Project</strong></p>
-<p>A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631)</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://automaticstay.org?utm_source=bankruptcylien.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>

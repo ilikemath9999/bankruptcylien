@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta content="noindex, nofollow" name="robots"/>
-<meta content="0; url=https://bankruptcylien.com/surviving-liens.html" http-equiv="refresh"/>
+<meta content="0; url=https://bankruptcylien.com/voluntary-liens.html" http-equiv="refresh"/>
 <script>window.location.replace('https://bankruptcylien.com' + window.location.pathname.replace(/^\/[^\/]+/, ''));</script>
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <!-- BTN:GA4:START -->
@@ -20,22 +20,22 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What Liens Survive Bankruptcy Discharge?</title>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." name="description"/>
-<meta content="liens survive bankruptcy, in personam, in rem, discharge, surviving liens, lien passthrough, property" name="keywords"/>
-<link href="https://bankruptcylien.com/surviving-liens.html" rel="canonical"/>
-<link href="https://bankruptcylien.com/surviving-liens.html" hreflang="en" rel="alternate"/>
+<title>Voluntary Liens in Bankruptcy - Mortgages and Car Loans</title>
+<meta content="Learn about voluntary liens in bankruptcy - mortgages and car loans | bankruptcylien.com in our free 2026 guide." name="description"/>
+<meta content="voluntary lien, consensual lien, mortgage, car loan, security interest, 522(f), anti-modification, bankruptcy" name="keywords"/>
+<link href="https://bankruptcylien.com/voluntary-liens.html" rel="canonical"/>
+<link href="https://bankruptcylien.com/voluntary-liens.html" hreflang="en" rel="alternate"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="#0d1117" name="theme-color"/>
 <meta content="2026-03-28" name="last-modified"/>
-<meta content="What Liens Survive Bankruptcy Discharge?" property="og:title"/>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
+<meta content="Voluntary Liens in Bankruptcy - Mortgages and Car Loans" property="og:title"/>
+<meta content="Learn about voluntary liens in bankruptcy - mortgages and car loans | bankruptcylien.com in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://bankruptcylien.com/surviving-liens.html" property="og:url"/>
+<meta content="https://bankruptcylien.com/voluntary-liens.html" property="og:url"/>
 <meta content="bankruptcylien.com" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What Liens Survive Bankruptcy Discharge?" name="twitter:title"/>
-<meta content="Learn about what liens survive bankruptcy discharge? | bankruptcylien.com in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
+<meta content="Voluntary Liens in Bankruptcy - Mortgages and Car Loans" name="twitter:title"/>
+<meta content="Learn about voluntary liens in bankruptcy - mortgages and car loans | bankruptcylien.com in our free 2026 guide." name="twitter:description"/>
 <meta content="https://openbankruptcyproject.org/og-default.svg" property="og:image"/>
 <meta content="https://openbankruptcyproject.org/og-default.svg" name="twitter:image"/>
 <script type="application/ld+json">
@@ -52,12 +52,12 @@
 {
   "@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "Do all liens survive bankruptcy?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Yes, unless specifically avoided, stripped, or otherwise addressed through bankruptcy proceedings. The discharge eliminates personal liability (in personam) but not property-based rights (in rem)."}},
-    {"@type": "Question", "name": "What does in personam vs in rem mean?",
-     "acceptedAnswer": {"@type": "Answer", "text": "In personam means personal liability - your obligation to pay. In rem means rights against specific property - the lien. Discharge eliminates in personam liability but leaves in rem rights intact."}},
-    {"@type": "Question", "name": "What can I do about surviving liens?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Use the tools bankruptcy provides: lien avoidance (522(f)), lien stripping (Ch.13), cramdown (506(a)), or redemption (722). If none apply, the lien survives and can be enforced against the property."}}
+    {"@type": "Question", "name": "Can I remove a mortgage lien in bankruptcy?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Generally no. Consensual liens (like mortgages) cannot be avoided under Section 522(f), which only applies to judicial liens. However, wholly unsecured junior mortgages can be stripped in Chapter 13."}},
+    {"@type": "Question", "name": "What about car loans?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Car liens cannot be removed, but they can be reduced through cramdown under Section 506(a) in Chapter 13 - if the car was purchased more than 910 days before filing."}},
+    {"@type": "Question", "name": "What happens to my mortgage if I discharge the debt?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The personal obligation is discharged, but the lien remains. The lender cannot sue you for a deficiency, but can still foreclose if you stop paying."}}
   ]
 }
 </script>
@@ -67,8 +67,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Liens That Survive Bankruptcy Discharge",
-      "description": "All liens survive bankruptcy discharge unless specifically avoided or stripped. The in personam vs in rem distinction and what it means for your property.",
+      "headline": "Voluntary Liens - Mortgages and Car Loans",
+      "description": "Consensual liens (mortgages, car loans) cannot be avoided under Section 522(f). How bankruptcy treats voluntary security interests.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -80,7 +80,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcylien.com/surviving-liens.html"
+      "mainEntityOfPage": "https://bankruptcylien.com/voluntary-liens.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -94,21 +94,21 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "What Liens Survive Bankruptcy Discharge? | bankruptcylien.com",
+          "name": "Voluntary Liens in Bankruptcy - Mortgages and Car Loans | bankruptcylien.com",
           "item": "https://"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Liens That Survive Bankruptcy Discharge",
-          "item": "https://bankruptcylien.com/surviving-liens.html"
+          "name": "Voluntary Liens - Mortgages and Car Loans",
+          "item": "https://bankruptcylien.com/voluntary-liens.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Liens That Survive Bankruptcy Discharge",
-      "url": "https://bankruptcylien.com/surviving-liens.html",
+      "name": "Voluntary Liens - Mortgages and Car Loans",
+      "url": "https://bankruptcylien.com/voluntary-liens.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -173,27 +173,6 @@
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -204,56 +183,60 @@
 <a href="/">Home</a>
 <a href="/judgment-liens.html">Judgment Liens</a>
 <a href="/tax-liens.html">Tax Liens</a>
-<a href="/voluntary-liens.html">Voluntary Liens</a>
-<a class="active" href="/surviving-liens.html">Surviving Liens</a>
+<a class="active" href="/voluntary-liens.html">Voluntary Liens</a>
+<a href="/surviving-liens.html">Surviving Liens</a>
 <a href="/lien-stripping.html">Lien Stripping</a>
 <a href="/cramdown.html">Cramdown</a>
 <a href="/lien-avoidance.html">Lien Avoidance</a>
 </div>
 </nav>
 <header>
-<h1>Liens That Survive Bankruptcy Discharge</h1>
-<p class="subtitle">A bankruptcy discharge eliminates personal liability but does not automatically remove liens. Understanding this distinction is essential.</p>
+<h1>Voluntary Liens - Mortgages and Car Loans</h1>
+<p class="subtitle">Consensual liens that you agreed to cannot be avoided under 522(f). But bankruptcy provides other tools to manage them.</p>
 </header>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://">What Liens Survive Bankruptcy Discharge? | bankruptcylien.com</a><span class="separator">›</span><span>Liens That Survive Bankruptcy Discharge</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://">Voluntary Liens in Bankruptcy - Mortgages and Car Loans | bankruptcylien.com</a><span class="separator">›</span><span>Voluntary Liens - Mortgages and Car Loans</span></nav>
 <div class="content-section">
-<h2>The Fundamental Rule</h2>
-<p>The bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eliminates your <strong>personal obligation to pay</strong> a debt. It does not automatically eliminate a creditor's <strong>lien on your property</strong>. This is the most important concept in understanding liens in bankruptcy.</p>
-<div class="statute-box"><p><strong>Dewsnup v. Timm, 502 U.S. 410 (1992):</strong> The Supreme Court held that liens pass through bankruptcy unaffected by the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> unless the debtor takes specific steps to avoid, strip, or otherwise address them.</p></div>
-</div>
-<div class="content-section">
-<h2>Practical Consequences</h2>
-<p>After a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> discharge with surviving liens:</p>
+<h2>What Are Voluntary Liens?</h2>
+<p>Voluntary (consensual) liens are security interests you voluntarily granted when you signed a loan agreement. Common examples:</p>
 <ul>
-<li><strong>Mortgage:</strong> The lender cannot sue you for a deficiency. But if you stop paying, they can foreclose on the lien. If you want to keep the house, you must keep paying.</li>
-<li><strong>Car loan:</strong> Same principle. The lender cannot sue you personally, but can repossess the car if you default.</li>
-<li><strong>Judgment lien:</strong> If not avoided through 522(f), the lien remains on the property even though the underlying judgment debt is discharged.</li>
-<li><strong>Tax lien:</strong> Survives discharge. The IRS or state can enforce the lien against property, even though personal liability may have been eliminated.</li>
+<li><strong>Mortgage liens</strong> - Securing your home loan</li>
+<li><strong>Purchase money security interests</strong> - Securing a car loan or equipment loan</li>
+<li><strong>Home equity lines of credit (HELOCs)</strong> - Securing a second mortgage</li>
+<li><strong>Security agreements on personal property</strong> - Furniture, electronics, jewelry financed through the store</li>
 </ul>
+<p>Because these liens were voluntarily created, Section 522(f) does not apply. You agreed to pledge the property as collateral, and the Bankruptcy Code respects that agreement.</p>
 </div>
 <div class="content-section">
-<h2>Which Liens Can Be Eliminated?</h2>
+<h2>The Anti-Modification Rule</h2>
+<p>Section 1322(b)(2) - the <strong>anti-modification clause</strong> - prevents <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> plans from modifying the rights of holders of claims secured only by the debtor's principal residence. This means:</p>
+<ul>
+<li>You cannot reduce the interest rate on your first mortgage</li>
+<li>You cannot extend the mortgage term beyond the original agreement</li>
+<li>You cannot reduce the principal balance</li>
+</ul>
+<div class="yellow-box"><p><strong>Exception - <a href="https://lienstripping.org/" title="lien">lien stripping</a>:</strong> If your home is worth less than the first mortgage balance, a junior mortgage (second mortgage, HELOC) is wholly unsecured and can be stripped in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. See <a href="/lien-stripping.html">lien stripping</a>.</p></div>
+</div>
+<div class="content-section">
+<h2>Car Loans and the 910-Day Rule</h2>
+<p>Car loans can be crammed down in Chapter 13 - meaning the secured claim is reduced to the car's current value - but only if the car was purchased more than <strong>910 days</strong> (approximately 2.5 years) before filing.</p>
+<p>The "910-day rule" (the hanging paragraph of Section 1325(a)) protects recent car lenders from <a href="https://section1192.org/" title="cramdown">cramdown</a>. If you bought the car within 910 days, you must pay the full contract balance through the plan - not just the car's current value.</p>
+<p>For older cars: <a href="/cramdown.html">How cramdown reduces your car payment</a></p>
+</div>
+<div class="content-section">
+<h2>Options for Dealing with Voluntary Liens</h2>
+<p>While you cannot avoid voluntary liens, bankruptcy provides several options:</p>
 <table>
-<tr><th scope="col">Lien Type</th><th scope="col">Can Be Eliminated?</th><th scope="col">How</th></tr>
-<tr><td>Judicial (judgment) lien</td><td>Yes - if it impairs <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a></td><td>Section 522(f) motion</td></tr>
-<tr><td>Junior mortgage (wholly unsecured)</td><td>Yes - <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> only</td><td><a href="https://lienstripping.org" rel="noopener" target="_blank" title="Lien Stripping in Bankruptcy - Open Bankruptcy Project">Lien stripping</a></td></tr>
-<tr><td>Car loan (over 910 days)</td><td>Reduced to value, not eliminated</td><td><a href="https://section1192.org/" title="cramdown">Cramdown</a> under 506(a)</td></tr>
-<tr><td>First mortgage</td><td>No</td><td>Anti-modification rule</td></tr>
-<tr><td>Tax lien</td><td>Limited - through Ch.13 plan</td><td>Pay secured portion, strip remainder</td></tr>
-<tr><td>Consensual security interest</td><td>No (generally)</td><td>Surrender or pay</td></tr>
+<tr><th scope="col">Option</th><th scope="col">Effect</th><th scope="col">Chapter</th></tr>
+<tr><td><a href="https://reaffirmationagreement.org/" title="reaffirmation agreement">Reaffirmation</a></td><td>Keep the debt and the property</td><td><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></td></tr>
+<tr><td>Surrender</td><td>Give back the property, <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> the debt</td><td>All chapters</td></tr>
+<tr><td>Ride-through</td><td>Keep paying without reaffirming (where available)</td><td><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></td></tr>
+<tr><td><a href="https://section1192.org/" title="cramdown">Cramdown</a></td><td>Reduce secured claim to property value</td><td>Chapter 13</td></tr>
+<tr><td><a href="https://lienstripping.org" rel="noopener" target="_blank" title="Lien Stripping in Bankruptcy - Open Bankruptcy Project">Lien stripping</a></td><td>Remove wholly unsecured junior mortgage</td><td>Chapter 13</td></tr>
+<tr><td>Redemption</td><td>Pay current value in lump sum</td><td>Chapter 7 (personal property only)</td></tr>
+<tr><td>Cure and maintain</td><td>Cure arrears through plan, keep current on payments</td><td>Chapter 13</td></tr>
 </table>
-</div>
-<div class="content-section">
-<h2>Strategic Implications</h2>
-<p>Understanding which liens survive affects your choice of chapter:</p>
-<ul>
-<li><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>:</strong> Fast discharge, but almost no lien modification tools (only 522(f) avoidance and 722 redemption)</li>
-<li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>:</strong> Slower process, but powerful lien tools (stripping, <a href="https://section1192.org/" title="cramdown">cramdown</a>, cure and maintain)</li>
-</ul>
-<p>If you have significant liens on your property - especially underwater junior mortgages or judgment liens - Chapter 13 may be the better choice even though it requires years of plan payments.</p>
-<div class="green-box"><p><strong>Get advice before filing.</strong> The decision about which liens to address and how to address them should be made before filing, not after. A competent bankruptcy attorney can evaluate your liens and recommend the best strategy.</p></div>
-<p>Explore: <a href="/judgment-liens.html">Judgment lien avoidance</a> | <a href="/lien-stripping.html">Lien stripping</a> | <a href="/cramdown.html">Cramdown</a></p>
+<p>Related: <a href="https://lienstripping.org">lienstripping.org</a> | <a href="https://relieffromstay.org">relieffromstay.org</a></p>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
 <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
@@ -266,8 +249,8 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://lienstripping.org" style="color:#58a6ff">lienstripping.org - Lien stripping guide</a></p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcytaxes.org/tax-liens.html" style="color:#58a6ff">bankruptcytaxes.org/tax-liens.html - Tax liens</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://lienstripping.org" style="color:#58a6ff">lienstripping.org - Junior mortgage stripping</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://bankruptcytaxes.org" style="color:#58a6ff">bankruptcytaxes.org - Tax liens</a></p>
 <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://relieffromstay.org" style="color:#58a6ff">relieffromstay.org - Relief from stay</a></p>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -335,8 +318,8 @@
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
 <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
-<p><strong>Part of the Open Bankruptcy Project</strong></p>
-<p>A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631)</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
 <p>Real information, no strings.</p>
 <div class="links">
 <a href="https://automaticstay.org?utm_source=bankruptcylien.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>
